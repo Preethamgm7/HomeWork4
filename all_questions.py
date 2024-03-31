@@ -23,7 +23,7 @@ def question1():
 
 
 # -----------------------------------------------------------
-
+"""
 def question2():
     answers = {}
 
@@ -40,6 +40,7 @@ def question2():
     answers["(d) explain"] = None
 
     return answers
+"""
 
 # -----------------------------------------------------------
 def question3():
